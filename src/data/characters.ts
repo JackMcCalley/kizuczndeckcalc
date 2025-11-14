@@ -8,7 +8,7 @@ export const getCharacters = createServerFn({
     name: 'Amir',
     attribute: 'Order',
     rarity: 4,
-    image: { src: '../../Assets/Amir/amir_card.webp' },
+    image: { src: '../assets/Amir/amir_card.webp' },
     job: 'Vanguard'
   },
   {
@@ -16,7 +16,7 @@ export const getCharacters = createServerFn({
     name: 'Beryl',
     attribute: 'Justice',
     rarity: 4,
-    image: { src: '../../Assets/Beryl/beryl_card.webp' },
+    image: { src: '../assets/Beryl/beryl_card.webp' },
     job: 'Ranger'
   },
   {
@@ -24,7 +24,7 @@ export const getCharacters = createServerFn({
     name: 'Cassius',
     attribute: 'Instinct',
     rarity: 4,
-    image: { src: '../../Assets/Cassius/cassius_card.webp' },
+    image: { src: '../assets/Cassius/cassius_card.webp' },
     job: 'Controller'
   },
   {
@@ -32,7 +32,7 @@ export const getCharacters = createServerFn({
     name: 'Chizuru',
     attribute: '',
     rarity: 5,
-    image: { src: '../../Assets/Chizuru/chi_card.webp' },
+    image: { src: '../assets/Chizuru/chi_card.webp' },
     job: '',
   },
   {
@@ -40,7 +40,7 @@ export const getCharacters = createServerFn({
     name: 'Haru',
     attribute: 'Justice',
     rarity: 5,
-    image: { src: '../../Assets/Haru/haru_card.webp' },
+    image: { src: '../assets/Haru/haru_card.webp' },
     job: 'Striker'
   },
   {
@@ -48,7 +48,7 @@ export const getCharacters = createServerFn({
     name: 'Hugo',
     attribute: 'Order',
     rarity: 5,
-    image: { src: '../../Assets/Hugo/hugo_card.webp' },
+    image: { src: '../assets/Hugo/hugo_card.webp' },
     job: 'Ranger'
   },
   {
@@ -56,7 +56,7 @@ export const getCharacters = createServerFn({
     name: 'Kayron',
     attribute: 'Void',
     rarity: 5,
-    image: { src: '../../Assets/Kayron/kayron_card.webp' },
+    image: { src: '../assets/Kayron/kayron_card.webp' },
     job: 'Psionic'
   },
   {
@@ -64,7 +64,7 @@ export const getCharacters = createServerFn({
     name: 'Khalipe',
     attribute: 'Instinct',
     rarity: 5,
-    image: { src: '../../Assets/Khalipe/khalipe_card.webp' },
+    image: { src: '../assets/Khalipe/khalipe_card.webp' },
     job: 'Vanguard'
   },
   {
@@ -72,7 +72,7 @@ export const getCharacters = createServerFn({
     name: 'Lucas',
     attribute: 'Passion',
     rarity: 4,
-    image: { src: '../../Assets/Lucas/lucas_card.webp' },
+    image: { src: '../assets/Lucas/lucas_card.webp' },
     job: 'Hunter'
   },
   {
@@ -80,7 +80,7 @@ export const getCharacters = createServerFn({
     name: 'Luke',
     attribute: 'Order',
     rarity: 5,
-    image: { src: '../../Assets/Luke/luke_card.webp' },
+    image: { src: '../assets/Luke/luke_card.webp' },
     job: 'Hunter'
   },
   {
@@ -88,7 +88,7 @@ export const getCharacters = createServerFn({
     name: 'Magna',
     attribute: 'Justice',
     rarity: 5,
-    image: { src: '../../Assets/Magna/magna_card.webp' },
+    image: { src: '../assets/Magna/magna_card.webp' },
     job: 'Vanguard'
   },
   {
@@ -96,7 +96,7 @@ export const getCharacters = createServerFn({
     name: 'Maribell',
     attribute: 'Passion',
     rarity: 4,
-    image: { src: '../../Assets/Maribell/maribell_card.webp' },
+    image: { src: '../assets/Maribell/maribell_card.webp' },
     job: 'Vanguard'
   },
   {
@@ -104,7 +104,7 @@ export const getCharacters = createServerFn({
     name: 'Mei Lin',
     attribute: 'Passion',
     rarity: 5,
-    image: { src: '../../Assets/MeiLin/Meilin_card.webp' },
+    image: { src: '../assets/MeiLin/Meilin_card.webp' },
     job: 'Striker'
   },
   {
@@ -112,7 +112,7 @@ export const getCharacters = createServerFn({
     name: 'Mika',
     attribute: 'Justice',
     rarity: 4,
-    image: { src: '../../Assets/Mika/mika_card.webp' },
+    image: { src: '../assets/Mika/mika_card.webp' },
     job: 'Controller'
   },
   {
@@ -120,7 +120,7 @@ export const getCharacters = createServerFn({
     name: 'Nia',
     attribute: 'Instinct',
     rarity: 4,
-    image: { src: '../../Assets/Nia/nia_card.webp' },
+    image: { src: '../assets/Nia/nia_card.webp' },
     job: 'Controller'
   },
   {
@@ -128,7 +128,7 @@ export const getCharacters = createServerFn({
     name: 'Orlea',
     attribute: 'Instinct',
     rarity: 5,
-    image: { src: '../../Assets/Orlea/orlea_card.webp' },
+    image: { src: '../assets/Orlea/orlea_card.webp' },
     job: 'Controller'
   },
   {
@@ -136,7 +136,7 @@ export const getCharacters = createServerFn({
     name: 'Owen',
     attribute: 'Passion',
     rarity: 4,
-    image: { src: '../../Assets/Owen/owen_card.webp' },
+    image: { src: '../assets/Owen/owen_card.webp' },
     job: 'Striker'
   },
   {
@@ -144,7 +144,7 @@ export const getCharacters = createServerFn({
     name: 'Rei',
     attribute: 'Void',
     rarity: 4,
-    image: { src: '../../Assets/Rei/rei_card.webp' },
+    image: { src: '../assets/Rei/rei_card.webp' },
     job: 'Controller'
   },
   {
@@ -152,7 +152,7 @@ export const getCharacters = createServerFn({
     name: 'Renoa',
     attribute: 'Void',
     rarity: 5,
-    image: { src: '../../Assets/Renoa/renoa_card.webp' },
+    image: { src: '../assets/Renoa/renoa_card.webp' },
     job: 'Hunter'
   },
   {
@@ -160,7 +160,7 @@ export const getCharacters = createServerFn({
     name: 'Rin',
     attribute: 'Void',
     rarity: 5,
-    image: { src: '../../Assets/Rin/rin_card.webp' },
+    image: { src: '../assets/Rin/rin_card.webp' },
     job: 'Striker'
   },
   {
@@ -168,7 +168,7 @@ export const getCharacters = createServerFn({
     name: 'Selena',
     attribute: 'Passion',
     rarity: 4,
-    image: { src: '../../Assets/Selena/selena_card.webp' },
+    image: { src: '../assets/Selena/selena_card.webp' },
     job: 'Ranger'
   },
   {
@@ -176,7 +176,7 @@ export const getCharacters = createServerFn({
     name: 'Sereniel',
     attribute: '',
     rarity: 5,
-    image: { src: '../../Assets/Sereniel/sere_card.webp' },
+    image: { src: '../assets/Sereniel/sere_card.webp' },
     job: 'Controller'
   },
   {
@@ -184,7 +184,7 @@ export const getCharacters = createServerFn({
     name: 'Tressa',
     attribute: 'Void',
     rarity: 4,
-    image: { src: '../../Assets/Tressa/Tressa_card.webp' },
+    image: { src: '../assets/Tressa/Tressa_card.webp' },
     job: 'Psionic'
   },
   {
@@ -192,7 +192,7 @@ export const getCharacters = createServerFn({
     name: 'Veronica',
     attribute: 'Passion',
     rarity: 5,
-    image: { src: '../../Assets/Veronica/veronica_card.webp' },
+    image: { src: '../assets/Veronica/veronica_card.webp' },
     job: 'Ranger'
   },
   {
@@ -200,7 +200,7 @@ export const getCharacters = createServerFn({
     name: 'Yuki',
     attribute: 'Order',
     rarity: 5,
-    image: { src: '../../Assets/Yuki/yuki_card.webp' },
+    image: { src: '../assets/Yuki/yuki_card.webp' },
     job: 'Striker'
   },
 ])
