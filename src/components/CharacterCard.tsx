@@ -34,20 +34,20 @@ type JobType =
 type AttributeType = 'Instinct' | 'Justice' | 'Order' | 'Passion' | 'Void'
 
 const JOB_ICONS: Record<JobType, string> = {
-  Controller: '../../Assets/icons/class_controller.webp',
-  Hunter: '../../Assets/icons/class_hunter.webp',
-  Psionic: '../../Assets/icons/class_psionic.webp',
-  Ranger: '../../Assets/icons/class_ranger.webp',
-  Striker: '../../Assets/icons/class_striker.webp',
-  Vanguard: '../../Assets/icons/class_vanguard.webp',
+  Controller: '../assets/icons/class_controller.webp',
+  Hunter: '../assets/icons/class_hunter.webp',
+  Psionic: '../assets/icons/class_psionic.webp',
+  Ranger: '../assets/icons/class_ranger.webp',
+  Striker: '../assets/icons/class_striker.webp',
+  Vanguard: '../assets/icons/class_vanguard.webp',
 }
 
 const ATTRIBUTE_ICONS: Record<AttributeType, string> = {
-  Instinct: '../../Assets/icons/element_instinct.webp',
-  Justice: '../../Assets/icons/element_justice.webp',
-  Order: '../../Assets/icons/element_order.webp',
-  Passion: '../../Assets/icons/element_passion.webp',
-  Void: '../../Assets/icons/element_void.webp',
+  Instinct: '../assets/icons/element_instinct.webp',
+  Justice: '../assets/icons/element_justice.webp',
+  Order: '../assets/icons/element_order.webp',
+  Passion: '../assets/icons/element_passion.webp',
+  Void: '../assets/icons/element_void.webp',
 }
 export default function CharacterCard({ char }: { char: Character }) {
   const jobIcon = char.job ? JOB_ICONS[char.job as JobType] : ''
